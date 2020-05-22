@@ -1,0 +1,50 @@
+The SecSDM Software Tool v.03
+-Created by Dr Lynn Futcher & Developed by Mr Jeandre van Dyk
+Copyright Protected © Jeandré van Dyk
+_____________________________
+
+Minimum System Requirements:
+_____________________________
+
+1. 256MB Ram
+2. Pentium 4 Processor 
+3. 50MB Disk Space
+4. 1366 x 768 Resolution 
+5. Printer Definition File required(.pdf)
+
+Installed by setup cd:
+
+6. Microsoft .NET Framework 4.0
+7. SQLite
+
+_____________________________
+
+Installation Notes:
+_____________________________
+
+1. Insert CD, the setup file will autorun.
+2. If autorun fails double click on setup.exe
+3. Follow the prompts
+4. When setup is finished, open and run the application from your desktop.
+
+_____________________________
+
+Technical Support:
+_____________________________
+
+contact: Jeandrevdyk@gmail.com
+_____________________________
+
+Extra Notes:
+_____________________________
+
+If the application throws out errors when you want 
+to start it for the first time, install the SQLite setup on the cd.
+
+___________________________
+
+Licence:
+___________________________
+
+
+SecSDM may only be used for personal use and for educational purposes and not for any kind of commercial use.
